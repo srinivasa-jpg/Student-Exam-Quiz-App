@@ -15,4 +15,4 @@ Interactive exam-practice web app for students.
 - Local browser persistence
 
 ## Live Demo
-Live deployment URL will be added after deployment.
+🌐 https://student-exam-quiz-app-ashoka.onrender.com
